@@ -1,9 +1,9 @@
-
+ 
 
 <p align="center">
-  <a href="https://github.com/kettanaito/naming-cheatsheet">
-    <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
-  </a>
+    <a href="https://github.com/kettanaito/naming-cheatsheet">
+        <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
+     </a>
 </p>
 
 # Naming cheatsheet
